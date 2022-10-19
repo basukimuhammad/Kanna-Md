@@ -171,7 +171,7 @@ exports.run = {
 ◦  ${isPrefix}runtime
 ❑ *T Q - T O*
 ◦ Swift
-◦ FARUQOFC`
+
       client.sendMessageModify(m.chat, captions, m, {
                title: 'Kanna bot',
                largeThumb: true,
